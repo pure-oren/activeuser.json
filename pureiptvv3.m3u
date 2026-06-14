@@ -1,25 +1,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/globetvapp/epg/main/Philippines/philippines1.xml.gz,https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/us.xml.gz,https://raw.githubusercontent.com/globetvapp/epg/main/Philippines/philippines2.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz,https://tvpass.org/epg.xml",https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz"
 
 **********Cignal-TV**********
-#EXTINF:-1 group-title="Collab",1.JPV TV
-https://jpvtvphilippines_hd.vonnhost.workers.dev/jpv.live.m3u8
-
-#EXTINF:-1 group-title="Collab",2.Philippines Television Network
-https://philippinestelevisionnetwork.itunerworldwide.workers.dev/master.live.m3u8
-
-#EXTINF:-1 group-title="Entertainment",TFC Asia
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=9568cc84e1d944f38eac304517eab6fd:2c8306892361e3fba18cb142f31ec775
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-tfcasia-dash-abscbnono/6b2e33be-adcd-40ae-a23a-61729ddb9398/index.mpd
-
-#EXTINF:-1 group-title="Entertainment",Kapamilya
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=bd17afb5dc9648a39be79ee3634dd4b8:b475084a1a58857e18480e30fbb0e544
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono/0658dc63-df4c-4ed6-ab72-8b7c39f2c13f/index.mpd
 
 #EXTINF:-1 group-title="Entertainment",GMA Pinoy
 #KODIPROP:inputstream=inputstream.adaptive
