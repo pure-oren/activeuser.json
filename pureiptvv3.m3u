@@ -1,6 +1,62 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/globetvapp/epg/main/Philippines/philippines1.xml.gz,https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/us.xml.gz,https://raw.githubusercontent.com/globetvapp/epg/main/Philippines/philippines2.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz,https://tvpass.org/epg.xml",https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz"
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dpGrvi4.jpeg" group-title="Collab",DURIAN TV
+https://duriantvph.itunerworldwide.workers.dev/master.live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SJOd07C.png" group-title="Collab",DREAMSTAR TV
+https://dreamstartvph.itunerworldwide.workers.dev/master.live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QalEBc8.jpeg" group-title="Collab",STAR TELEVISION
+https://startelevisionph.itunerworldwide.workers.dev/master.live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B19YGN3.jpeg" group-title="Collab",PHILIPPINES TELEVISION NETWORK
+https://sdtvnetworkph.sanmateocable.workers.dev/master.live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MzgAHPk.png" group-title="Collab",HIGHLIGHTS TV
+https://highlightstvph.itunerworldwide.workers.dev/master.live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PfqrJEf.png" group-title="Collab",HYPE TV
+https://hypetvphbydtmmbs.itunerworldwide.workers.dev/master.live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sKMOzY7.jpeg" group-title="Collab",DREAM TV PHILIPPINES
+https://dreamtvph.itunerworldwide.workers.dev/master.live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VEpLVW0.jpeg" group-title="Collab",STAR TV PHILIPPINES
+https://startvphilippines.itunerworldwide.workers.dev/master.live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gR8HDzY.png" group-title="Collab",SINE PLUS
+https://sineplusph.itunerworldwide.workers.dev/master.live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L8seHZE.jpeg" group-title="Collab",ASIA FLIX TV
+https://asiaflixtvph.itunerworldwide.workers.dev/master.live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qtrfdvf.jpeg" group-title="Collab",JPV TV
+https://jpvtvph.itunerworldwide.workers.dev/jpv.live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/50RyQA7.jpeg" group-title="Collab",3RS TV
+https://3rstv.elektriko4444.workers.dev/peanut.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OCS1l7G.jpeg" group-title="Collab",3RS SINE PINOY
+https://3rssinepinoy2.elektriko4444.workers.dev/mochi.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b4rjf8n.jpg" group-title="Collab",3RS MOVIE BOX
+https://3rsmoviebox.elektriko4444.workers.dev/moon.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OMGlC4R.jpg" group-title="Collab",3RS CARTOON MOVIES
+https://3rscartoonmovies.elektriko4444.workers.dev/kolet.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/a/kzBBBev.png" group-title="Collab",SDTV NETWORK
+https://sdtvnetworkph.itunerworldwide.workers.dev/master.live.m3u8
+
+
+
 **********Cignal-TV**********
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d1/The_Filipino_Channel_2011_logo.svg" group-title="Entertainment",TFC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9568cc84e1d944f38eac304517eab6fd:2c8306892361e3fba18cb142f31ec775
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-tfcasia-dash-abscbnono/f5e25429-991f-41c0-84eb-f3ddd13bcf85/index.mpd
 
 #EXTINF:-1 group-title="Entertainment",GMA Pinoy
 #KODIPROP:inputstream=inputstream.adaptive
@@ -30,20 +86,6 @@ https://abslive.akamaized.net/dash/live/2099522/gnews3/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=b6d6e536f8fa4d8b93627af0128cf00d:e73c8dcfdea374ae576ced342f6c73a2
 https://abslive.akamaized.net/dash/live/2027618/anc-ph3/manifest.mpd
 
-#EXTINF:-1 group-title="News",ANC Global
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4bbdc78024a54662854b412d01fafa16:8c6c920cf3f7df2087b0ae1a4a8c6058
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-anc-global-dash-abscbnono/1af026df-9cc3-400f-83b0-c51c8b12bd93/index.mpd
-
-#EXTINF:-1 group-title="News",DZMM TeleRadyo
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=47c093e0c9fd4f80839a0337da3dd876:603248b858276f533a13e17f2f48c711
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-teleradyo-dash-abscbnono/c60be0fd-e4f6-463b-bcfc-f81b99e2bb46/index.mpd
-
 #EXTINF:-1 group-title="Movies",Cinema One PH
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -51,26 +93,6 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-teleradyo-dash-abscbn
 #KODIPROP:inputstream.adaptive.license_key=55eddd1e157e4c3b830866e4679e7032:525030e984567ba8df0af80660952368
 https://abslive.akamaized.net/dash/live/2027618/c1ph/manifest.mpd
 
-#EXTINF:-1 group-title="Movies",Cinema One Global
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=58d0e56991194043b8fb82feb4db7276:c116c612201e178193693eced13d7319
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-cinemaone-dash-abscbnono/f9468bfb-cac7-4752-829b-04bc0c6e8cc1/index.mpd
-
-#EXTINF:-1 group-title="Movies",Cinemo
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=aa8aebe35ccc4541b7ce6292efcb1bfb:f06b6031a3604cc6708c14d83f1a1b27
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-cinemo-dash-abscbnono/23def904-e032-4cfa-80b0-68e111537206/index.mpd
-
-#EXTINF:-1 group-title="Music",MYX
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f40a52a3ac9b4702bdd5b735d910fd2f:35e4893c6e76546085941be3010932d4
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-myxnola-dash-abscbnono/9e082ce2-dca1-457a-8511-9e861102f561/index.mpd
 
 #EXTINF:-1 group-title="Movies",Movies Now
 #KODIPROP:inputstream=inputstream.adaptive
