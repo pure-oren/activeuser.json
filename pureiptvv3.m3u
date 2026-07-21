@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/djdoolky76/Mediaquest-EPG/main/cignal_epg.xml.gz,https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/us.xml.gz,https://raw.githubusercontent.com/globetvapp/epg/main/Philippines/philippines2.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz,https://tvpass.org/epg.xml",https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz"
 
-#EXTINF:-1 tvg-id="61325c4f982acd00" tvg-chno="660" tvg-name="This Is Free" tvg-logo="https://images.pluto.tv/channels/61325c4f982acd000723287e/colorLogoPNG.png" group-title="1", 
+#EXTINF:-1 tvg-id="61325c4f982acd00" tvg-chno="660" tvg-name="This Is Free" tvg-logo="https://raw.githubusercontent.com/pure-oren/activeuser.json/refs/heads/main/file_0000000012b8820bbc1157c4aa1818d7.png" group-title="1",1
 https://streamable.com/e/2ytsht?autoplay=1
 
 
