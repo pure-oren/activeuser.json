@@ -71,11 +71,7 @@ https://live.cltv36.tv:5443/LiveApp/streams/cltvlive.m3u8
 
 	
 #EXTINF:-1 tvg-id="Jeepney.TV.ph" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeszH1cNdHnpN90rHA_zKUI5eq3cigJDR8AcNnZAvuVi9MOBNvPR80j5c&s" group-title="Local",Jeepney TV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=dc9fec234a5841bb8d06e92042c741ec:225676f32612dc803cb4d0f950d063d0
-https://abslive.akamaized.net/dash/live/2027618/jeepneytv/manifest.mpd
+https://streamflix.stream/iptv-proxy/136.239.158.10:6610/001/2/ch00000090990000001250/manifest.mpd?JITPDRMType=NO&version=v1.0&IASHttpSessionId=OTT392851620261126024956678367&programid=ch00000000000000001546&virtualDomain=001.live_hls.zte.com&recommendtype=0&BreakPoint=0&profilecode=&JITPMediaType=DASH&boid=001&terminalflag=1&contentid=ch00000000000000001546&stbid=02:00:00:00:00:00&NeedJITP=1&AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpGbNnk2H5Bi8k4yR%2B9AHGFytokK1MIobcue1ImXa0ZEA%3D%3D&usersessionid=6T45HYQ6YE3XXX&userid=1870820485634&videoid=ch00000090990000001250
 
 #EXTINF:-1 tvg-id="GMAPinoy.ph" tvg-logo="https://i.imgur.com/cWCVP3j.png" group-title="Local",GMA Pinoy
 #KODIPROP:inputstream=inputstream.adaptive
